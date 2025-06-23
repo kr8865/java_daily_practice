@@ -1,3 +1,5 @@
+package largest_ele;
+
 public class better_approach {
     public static void main(String[] args) {
         // step-1 initialize a variable name max store the minimum value in it
