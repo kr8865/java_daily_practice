@@ -18,4 +18,9 @@ public class better_app {
 
     }
 
+    public static void reverse(int i, int j, int[] arr) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'reverse'");
+    }
+
 }
